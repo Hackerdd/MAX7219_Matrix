@@ -2,18 +2,18 @@
 		Copyright (c) 2016
 		All rights reserved.
 		
-		File name						:main.c
+		File name		  :main.c
 		file identification :
-		Subject							:A matrix led project based on MAX7219 
-													@example Matrix_printf("string");
-																	Hello World character will be shown on matrix led
+		Subject			  :A matrix led project based on MAX7219 
+							@example Matrix_printf("string");
+							Hello World character will be shown on matrix led
 		
-		Current Version 		:
-		Author							:Hacker
-		Date								:2016-1-23 17:29:14
+		Current Version 	  :
+		Author			  :Hacker
+		Date				  :2016-1-23 17:29:14
 		
-		Instead Version			:
-		Date								:
+		Instead Version	  :
+		Date				  :
 ***/
 #include "stm32f10x.h"
 #include "max7219.h"
