@@ -6,7 +6,7 @@
 		file identification :
 		Subject							:A matrix led project based on MAX7219 
 													@example Matrix_printf("string");
-																	Show string character on matrix led
+																	Hello World character will be shown on matrix led
 		
 		Current Version 		:
 		Author							:Hacker
